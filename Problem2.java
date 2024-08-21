@@ -1,4 +1,4 @@
-//Time = 
+//Time = O(h)
 //Space = O(h), h is height of the binary search tree
 
 class Solution {
